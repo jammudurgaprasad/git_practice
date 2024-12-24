@@ -1,0 +1,13 @@
+1.open a folder and open command prompt in that.
+2.git init
+3.to check status run "git status".
+4.There are four stages
+-working directory
+-staging area
+-local repository
+-remote repository
+5.working directory is a place where all the different files exist.
+6.we can send working directory files to staging area what ever we want.
+git add filename EX: git add first.py
+7.we can send staging area files to local repository through command "commit", in this process all the files in staging area will go to local repository.
+8.
