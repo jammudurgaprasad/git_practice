@@ -9,5 +9,21 @@
 5.working directory is a place where all the different files exist.
 6.we can send working directory files to staging area what ever we want.
 git add filename EX: git add first.py
+C:\Users\jammu\Desktop\practice\git practice>git add git_notes.txt
+C:\Users\jammu\Desktop\practice\git practice>git status
+On branch master
+No commits yet
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   git_notes.txt
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        example1.txt
+        example2.txt
 7.we can send staging area files to local repository through command "commit", in this process all the files in staging area will go to local repository.
-8.
+
+git commit -m "message you want"
+git remote add origin https://github.com/jammudurgaprasad/git_practice.git
+
+8.To check branch "git branch"
+9.sending files from local to remote "git push -u origin master"
