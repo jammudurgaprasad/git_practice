@@ -28,3 +28,6 @@ git remote add origin https://github.com/jammudurgaprasad/git_practice.git
 8.To check branch "git branch"
 9.sending files from local to remote "git push -u origin master"
 10.To create a new branch or jump to another branch use "git checkout -b "branch_name" ".
+11.After shifting to new branch "git push --set-upstream origin branch1."
+12.After updating->add->commit->push.
+13.to switch between branches "git checkout -b "branch_name" "
